@@ -19,4 +19,5 @@ It was also one of my initial projects, made using mere OOP concepts in C++. Any
 1. Extract the zip file.
 2. Run the object file from there.
 
-**Note:** The C++ files other than the zip file are just to showcase the code.
+**Note:** The C++ files other than the zip file are just to showcase the code.<br/><br/>
+**Note:** Music has been removed from the zip file because of size limitations of the plattform.
